@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rai Dwitya</h1>
-<h3 align="center">A PhD student with interest in antimicrobial resistance and computational genomics</h3>
+<h3 align="center">A PhD student with interest in antimicrobial resistance and computational biology</h3>
 
 <p align="left"> <a href="https://twitter.com/rdw0606" target="blank"><img src="https://img.shields.io/twitter/follow/rdw0606?logo=twitter&style=for-the-badge" alt="rdw0606" /></a> </p>
 
